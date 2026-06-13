@@ -2,7 +2,7 @@
 
 ## 🎀 Sobre Mim
 
-Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprendendo a fazer artes e edições! 🌸✨
+Olá fãs de drosa e programação me chamo **Giovanna Baltieri** tenho 17 anos e estou aprendendo a programar e editar! 🌸✨
 
 * 🎨 **Foco atual:** Design digital, edições criativas e artes visuais.
 * 🌸 **Estilo favorito:** estéticas organizadas e muito rosa!
