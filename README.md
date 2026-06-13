@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://images.squarespace-cdn.com/content/v1/5c9d05da348cd90a36bc649e/a552f495-2c8c-4a11-8cbf-bc0ee91f8682/README+header.png" alt="Banner Giovanna Barbie" width="80%">
+  <img src="https://i.ibb.co/VWTgCcyv/README-header.png" alt="Banner Giovanna Barbie" width="60%">
 </div>
 
 ---
@@ -48,3 +48,4 @@ Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprend
     <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
+
