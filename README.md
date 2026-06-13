@@ -1,5 +1,5 @@
-<div align="right">
-  <img src="https://i.ibb.co/VWTgCcyv/README-header.png" alt="Banner Giovanna Barbie" width="60%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gihsouz/gihsouz/main/README%20header.png" alt="Banner Giovanna Barbie" width="100%">
 </div>
 
 ---
@@ -22,6 +22,7 @@ Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprend
 ---
 
 ## 🛠️ Minhas Tech Skills
+
 <div align="left">
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=df80ff" alt="Photoshop">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
@@ -32,6 +33,7 @@ Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprend
 ---
 
 ## 📊 Meu GitHub Status
+
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gihsouz&show_icons=true&theme=rose&hide_border=true" alt="Estatísticas do GitHub">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihsouz&layout=compact&theme=rose&hide_border=true" alt="Linguagens mais usadas">
@@ -40,6 +42,7 @@ Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprend
 ---
 
 ## 💌 Vamos nos conectar?
+
 <div align="center">
   <a href="mailto:seu-email@email.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
