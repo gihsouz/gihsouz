@@ -12,7 +12,7 @@ Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprend
 ## 🚀 Uma Mensagem Especial
 
 <marquee behavior="scroll" direction="left" scrollamount="6">
-  <font color="#ff69b4" size="5"><b>✨ sejam muito bem vindos nessa fase para acompanhar uma patricinha que ama rosa e maquiagens aprendendo a programar, vem nessa aventura comigo!!✨</b></font>
+  <font color="#ff69b4" size="5"><b>✨ sejam muito bem vindos nessa minha nova fase para acompanhar uma patricinha que ama rosa e maquiagens aprendendo a programar, vem nessa aventura comigo!!✨</b></font>
 </marquee>
 
 ---
