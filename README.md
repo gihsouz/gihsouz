@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gihsouz/gihsouz/main/README%20header.png" alt="Banner Giovanna Barbie" width="100%">
+
+![Banner Giovanna](https://raw.githubusercontent.com/gihsouz/gihsouz/main/README-header.svg)
+
 </div>
 
 ---
 
 ## 🎀 Sobre Mim
 
-Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprendendo a fazer artes e ediçõe! 🌸✨
+Olá fãs da barbie, me chamo **Giovanna Baltieri** tenho 17 anos e estou aprendendo a fazer artes e edições! 🌸✨
 
 * 🎨 **Foco atual:** Design digital, edições criativas e artes visuais.
 * 🌸 **Estilo favorito:** Coisas fofas, estéticas organizadas e muito rosa!
