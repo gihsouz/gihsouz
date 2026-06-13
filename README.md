@@ -1,10 +1,4 @@
-<div align="center">
 
-![Banner Giovanna](https://raw.githubusercontent.com/gihsouz/gihsouz/main/README-header.svg)
-
-</div>
-
----
 
 ## 🎀 Sobre Mim
 
