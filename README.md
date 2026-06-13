@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gihsouz/gihsouz/main/README-header.png" alt="Banner Giovanna Barbie" width="100%">
-</div>
 
 ## 🎀 Sobre Mim
 
